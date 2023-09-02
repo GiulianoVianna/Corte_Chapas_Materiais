@@ -7,6 +7,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QFont
 import sys
 
+
 # Definindo a classe Janela que herda de QWidget
 class Janela(QWidget):
     def __init__(self):
