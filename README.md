@@ -1,8 +1,8 @@
 # Cálculo de Corte de Chapas
 
-![image](https://github.com/GiulianoVianna/Corte_Chapas_Materiais/assets/101942554/71e68590-055e-45f5-8388-28aa6484e2ef)
+![image](https://github.com/GiulianoVianna/Corte_Chapas_Materiais/assets/101942554/5b295bf3-d6b9-427a-8e33-8addc9b76d81)
 
-![image](https://github.com/GiulianoVianna/Corte_Chapas_Materiais/assets/101942554/105a619f-2a5e-4d93-ba0e-381a9499589f)
+![image](https://github.com/GiulianoVianna/Corte_Chapas_Materiais/assets/101942554/32ca4515-aab4-45e1-8fef-e2718b72896f)
 
 
 
