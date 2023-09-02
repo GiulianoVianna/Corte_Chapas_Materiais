@@ -1,4 +1,4 @@
-# Cálculo de Corte de Chapas
+# Cálculo - Corte de Chapas
 
 
 https://github.com/GiulianoVianna/Corte_Chapas_Materiais/assets/101942554/da4c7451-f90d-482e-a118-0da3d333d711
